@@ -1,0 +1,4 @@
+Yang akan dikerjakan:
+- Belajar HTML
+- Belajar CSS
+- Membuat layout web
